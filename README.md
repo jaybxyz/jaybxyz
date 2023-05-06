@@ -1,4 +1,10 @@
-### Hi there 👋
+<a href="http://under.construction" title="Website">
+  <img alt="Hey, I'm JayB" src="https://github.com/jaybxyz/jaybxyz/raw/main/images/title.png" width="612" />
+</a>
+
+> My mission is to constantly build and ship cool products and services in web3.
+
+- ⚛️ Builder in Cosmos - Tendermint | Cosmos SDK | IBC | CosmWasm
 
 <!--
 **jaybxyz/jaybxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
