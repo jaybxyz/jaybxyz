@@ -1,6 +1,6 @@
 <p align="center">
     <a href="http://under.construction" title="Website" >
-        <img alt="Hey, I'm JayB" src="./images/title4.png" width="580" />
+        <img alt="Hey, I'm JayB" src="./images/title.png" width="580" />
     </a>
 </p>
 
