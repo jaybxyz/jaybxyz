@@ -1,3 +1,5 @@
+> My mission is to build and ship cool products and services in web3.
+
 <!--
 
 <p align="center">
@@ -5,9 +7,6 @@
         <img alt="Hey, I'm JayB" src="./images/title.png" width="580" />
     </a>
 </p>
-
-> My mission is to constantly build and ship cool products and services in web3.
-
 
 Here are some ideas to get you started:
 
