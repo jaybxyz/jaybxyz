@@ -1,3 +1,5 @@
+<!--
+
 <p align="center">
     <a href="http://under.construction" title="Website" >
         <img alt="Hey, I'm JayB" src="./images/title.png" width="580" />
@@ -7,7 +9,6 @@
 > My mission is to constantly build and ship cool products and services in web3.
 
 
-<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
